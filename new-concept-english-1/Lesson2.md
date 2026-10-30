@@ -6,7 +6,7 @@ Is this your pen? -- Yes, it is.
 
 Is this your pencil? -- No, it isn't.
 
-> pencil ['pensəl] n. 铅笔
+> pencil ['pens(ə)l] n. 铅笔
 
 Is this your book? -- Yes, it is.
 
@@ -26,15 +26,15 @@ Is this your dress? -- No, it isn't.
 
 Is this your skirt? -- Yes, it is.
 
-> skirt [skə:t] n. 衬衣
+> skirt [skɜ:t] n. 衬衣
 
 Is this your shirt? -- No, it isn't.
 
-> shirt [ʃə:t] n. 衬衣
+> shirt [ʃɜ:t] n. 衬衣
 
 Is this your car? -- Yes, it is.
 
-> car [ka:] n. 小汽车
+> car [kɑ:] n. 小汽车
 
 Is this your hause? -- No, it isn't.
 

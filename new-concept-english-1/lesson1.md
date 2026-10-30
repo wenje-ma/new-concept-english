@@ -62,7 +62,7 @@ Is this your handbag?
 
 Pardon?
 
-> pardon ['pa:dn] int. 原谅, 请再说一遍
+> pardon ['pɑ:dn] int. 原谅, 请再说一遍
 
 > [!NOTE]
 >
@@ -80,7 +80,7 @@ Is this your handbag?
 
 Yes, it is.
 
-> it [ɪt:] pron. 它
+> it [ɪt] pron. 它
 
 > [!NOTE]
 >
